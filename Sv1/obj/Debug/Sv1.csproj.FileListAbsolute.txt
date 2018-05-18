@@ -1,0 +1,36 @@
+C:\Users\draga\Documents\Visual Studio 2015\Projects\Sv1\Sv1\bin\Debug\Sv1.exe.config
+C:\Users\draga\Documents\Visual Studio 2015\Projects\Sv1\Sv1\bin\Debug\Sv1.exe
+C:\Users\draga\Documents\Visual Studio 2015\Projects\Sv1\Sv1\bin\Debug\Sv1.pdb
+C:\Users\draga\Documents\Visual Studio 2015\Projects\Sv1\Sv1\bin\Debug\MetroFramework.Design.dll
+C:\Users\draga\Documents\Visual Studio 2015\Projects\Sv1\Sv1\bin\Debug\MetroFramework.dll
+C:\Users\draga\Documents\Visual Studio 2015\Projects\Sv1\Sv1\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\draga\Documents\Visual Studio 2015\Projects\Sv1\Sv1\obj\Debug\Sv1.csprojResolveAssemblyReference.cache
+C:\Users\draga\Documents\Visual Studio 2015\Projects\Sv1\Sv1\obj\Debug\Sv1.Properties.Resources.resources
+C:\Users\draga\Documents\Visual Studio 2015\Projects\Sv1\Sv1\obj\Debug\Sv1.csproj.GenerateResource.Cache
+C:\Users\draga\Documents\Visual Studio 2015\Projects\Sv1\Sv1\obj\Debug\Sv1.exe
+C:\Users\draga\Documents\Visual Studio 2015\Projects\Sv1\Sv1\obj\Debug\Sv1.pdb
+C:\Users\draga\Documents\Visual Studio 2015\Projects\Sv1\Sv1\obj\Debug\Sv1.Main.resources
+C:\Users\Mare\Downloads\Sv1\Sv1\Sv1\bin\Debug\Sv1.exe.config
+C:\Users\Mare\Downloads\Sv1\Sv1\Sv1\obj\Debug\Sv1.exe
+C:\Users\Mare\Downloads\Sv1\Sv1\Sv1\obj\Debug\Sv1.pdb
+C:\Users\Mare\Downloads\Sv1\Sv1\Sv1\bin\Debug\Sv1.exe
+C:\Users\Mare\Downloads\Sv1\Sv1\Sv1\bin\Debug\Sv1.pdb
+C:\Users\Mare\Downloads\Sv1\Sv1\Sv1\bin\Debug\MetroFramework.Design.dll
+C:\Users\Mare\Downloads\Sv1\Sv1\Sv1\bin\Debug\MetroFramework.dll
+C:\Users\Mare\Downloads\Sv1\Sv1\Sv1\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Mare\Downloads\Sv1\Sv1\Sv1\obj\Debug\Sv1.csprojResolveAssemblyReference.cache
+C:\Users\Mare\Downloads\Sv1\Sv1\Sv1\obj\Debug\Sv1.Main.resources
+C:\Users\Mare\Downloads\Sv1\Sv1\Sv1\obj\Debug\Sv1.Properties.Resources.resources
+C:\Users\Mare\Downloads\Sv1\Sv1\Sv1\obj\Debug\Sv1.csproj.GenerateResource.Cache
+C:\Users\draga\Desktop\Sv1\Sv1\bin\Debug\Sv1.exe.config
+C:\Users\draga\Desktop\Sv1\Sv1\obj\Debug\Sv1.exe
+C:\Users\draga\Desktop\Sv1\Sv1\obj\Debug\Sv1.pdb
+C:\Users\draga\Desktop\Sv1\Sv1\bin\Debug\Sv1.exe
+C:\Users\draga\Desktop\Sv1\Sv1\bin\Debug\Sv1.pdb
+C:\Users\draga\Desktop\Sv1\Sv1\bin\Debug\MetroFramework.Design.dll
+C:\Users\draga\Desktop\Sv1\Sv1\bin\Debug\MetroFramework.dll
+C:\Users\draga\Desktop\Sv1\Sv1\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\draga\Desktop\Sv1\Sv1\obj\Debug\Sv1.csprojResolveAssemblyReference.cache
+C:\Users\draga\Desktop\Sv1\Sv1\obj\Debug\Sv1.Main.resources
+C:\Users\draga\Desktop\Sv1\Sv1\obj\Debug\Sv1.Properties.Resources.resources
+C:\Users\draga\Desktop\Sv1\Sv1\obj\Debug\Sv1.csproj.GenerateResource.Cache
