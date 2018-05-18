@@ -12,7 +12,7 @@ The [full-text report][report] can be found on ResearchGate.
 
 ## Application
 
-For implementing algorithm code, C# and C++ was used. Application is implemented on that way that it shows each step in this process, one after another.
+For implementing algorithm code, C# and C++ were used. Application is implemented on that way that it shows each step in this process, one after another.
 
 ![alt tag](https://imgur.com/5CqMaEV.png)
 
